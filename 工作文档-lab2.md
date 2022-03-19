@@ -18,7 +18,7 @@
 
 **（1）MicrosoftVisio**
 
-![MicrosoftVisio](img\MicrosoftVisio.png)
+![MicrosoftVisio](img/lab2/MicrosoftVisio.png)
 
 - **简介**：visio是目前国内用得最多的case工具。它提供了日常使用中的绝大多数框图的绘画功能（包括信息领域的各种原理图，设计图)，同时提供了部分信息领域的实物图。visio的精华在于其使用方便，安装后的visio2000既可以单独运行，也可以在word中作为对象插入，与word集成良好，其图生成后在没有安装visio的word仍然能够查看。Visio不仅在在处理框和文字上的流畅，同时在文件管理上提供了分页、分组的管理方式。visio支持UML的静态和动态建模，对UML的建模提供了单独的组织管理。
 
@@ -32,7 +32,7 @@
 
 **（2）Smartdraw**
 
-![Smartdraw](img\Smartdraw.png)
+![Smartdraw](img/lab2/Smartdraw.png)
 
 - **简介**：SmartDraw属于一个老牌绘图软件。使用它可以轻松创建数据流程图、程序流程图、网络结构图、地图、室内设计图等等。利用鼠标拖放相应的图形、线条即可以快速创建出漂亮而又专业的设计图。而且当移动图形时，相关的线条也会自动移动。对于程序设计、网络结构设计等领域的应用来说，SmartDraw算得上是一个短小精悍的工具。
 
@@ -49,7 +49,7 @@
 
 **（3）Diagrams**
 
-![Diagrams](img\Diagrams.png)
+![Diagrams](img/lab2/Diagrams.png)
 
 - **简介**：diagrams.net/draw.io 是一个用于构建图表应用程序的开源技术堆栈，也是世界上使用最广泛的基于浏览器的最终用户图表软件。
 
@@ -63,7 +63,7 @@
 
 **（4）RationalRose**
 
-![RationalRose](img\RationalRose.png)
+![RationalRose](img/lab2/RationalRose.png)
 
 - **简介**：绘制的图形简洁美观，支持Java,J2EE,C++,MCF等语言和框架的建模。
 
@@ -84,7 +84,7 @@
 
 **（5）SybasePowerDesigner**
 
-![SybasePowerDesigner](img\SybasePowerDesigner.png)
+![SybasePowerDesigner](img/lab2/SybasePowerDesigner.png)
 
 - **简介**：Powerdesigner是由Sybase公司开发的一套商业建模工具，它与ROSE、
   ERWin类似，主要是为数据库的建模设计的，但与它们相比，具有更加突出的功能。
@@ -99,7 +99,7 @@
 
 **（6）Apache JMeter**
 
-![ApacheJMeter](img\ApacheJMeter.png)
+![ApacheJMeter](img/lab2/ApacheJMeter.png)
 
 - **简介**：JMeter是一个纯粹的Java编写的应用程序，它主要是用来进行负载和性能测试。原先它是为Web/HTTP测试而设计的。设计JMeter最初始的目的是用来测试WebApplication但是现在已经扩展了很多功能。JMeter通常被用来对一些静态的或者动态资源（比如PHP,Java，ASP.Net等编写的Web，或者是JavaObject，DataBasesandQueries,FTP服务器等等）进行性能测试。它通常模拟大量的数据对一个Server或者一个ServerGroup网络等进行负载测试。然后通过分析它产生的性能图表来判断测试结果。和其他性能压测工具相比较，还是比较轻量级的，不够好像不支持IP伪装。
 
@@ -114,7 +114,7 @@
 
 **（7）ClearCase**
 
-![ClearCase](img\ClearCase.png)
+![ClearCase](img/lab2/ClearCase.png)
 
 - **简介**：Rational ClearCase是软件配置管理SCM工具的一种，它可以用来对代码或者其他软件开发资产进行版本控制。对于超过上百或者上千团队开发者的大型项目据说也有很好的支持。ClearCase提供了VOB的概念来进行配置管理，功能极其强大。ClearCase实现版本管理的基础是VOB，成员要更改受控资料，需要先设置一个自己的View,这个View是你感兴趣的受控资料范围，然后可以CheckOut资料到本地资料区，进行修改后再CheckIn提交。ClearCase目前支持的执行平台有UNIX/LINUX，WINNT。
 - **优点**：
