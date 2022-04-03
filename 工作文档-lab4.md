@@ -1,5 +1,9 @@
 # 实验四  Scrum开发方法，工作量估算，风险管理，可行性分析报告
 
+[TOC]
+
+
+
 ### 实验目的
 
 1. 了解Scrum开发方法
@@ -18,7 +22,7 @@ SCRUM（并列争球法）属于一种敏捷开发方法，由Jeff Sutherland在
 
 Scrum是橄榄球运动的一个专业术语，表示“争球”的动作。橄榄球是一项单位场地内寸土必争的运动，一方获得进攻权利，就会一步步地推进敌方阵营。这样就类似团队进行开发项目时，通过团队合作把项目一步步推进，和打橄榄球一样迅速、充满激情，所以把这样的一个开发流程取名为Scrum。Scrum的所有实践都围绕一个迭代,增量的过程模型展开，开发团队利用Scrum方法，可以高效运作。
 
-![img](https://www.leangoo.com/wp-content/uploads/2019/07/56sdfasg.png)
+![img](/img/lab4/scrum.png)
 
 Scrum的目的是为了适应变化、提高软件开发的效率，如今Scrum的影响已经远远超过软件开发领域，成为零售、军事、风险投资甚至学校里完成各种任务的创新方法。Scrum框架促进团队成员之间的有效交互，为企业创造价值。
 
@@ -68,7 +72,7 @@ Sprint评审回顾会议主要有两个部分的内容，一是做Sprint交付�
 
 ###### 工件二：SPRINT BACKLOG（Sprint 代办事项列表）
 
-![img](https://tse1-mm.cn.bing.net/th/id/R-C.ec674be702e9bc412ca18b6bd76db3df?rik=XRWdHzB%2bT8oXIw&riu=http%3a%2f%2fwww.romanpichler.com%2fwp-content%2fuploads%2f2014%2f03%2fSprintGoalAndSprintBacklog.png&ehk=Z%2fSKQlDEpxXdNcDThD5yduWyY%2fIeLQkfPngbac84kcA%3d&risl=&pid=ImgRaw&r=0)
+![img](/img/lab4/scrum2.png)
 
 Sprint 代办事项列表是一组为当前 Sprint 选出的产品代办事项列表条目,外加交付 产品增量和实现 Sprint 目标的计划。Sprint 代办事项列表是开发团队对于哪些功能要包 含在下个增量中,以及交付那些功能所需工作的预计。
 
@@ -76,7 +80,7 @@ Sprint 代办事项列表定义了开发团队把产品代办事项列表条目�
 
 Sprint燃尽图（Sprint Burn-down Chart)：显示了Sprint中累积剩余的工作量，它是一个反映工作量完成状况的趋势图。 图中Y轴代表的是剩余工作量，X轴代表的是Sprint的工作日。
 
-![img](https://tse1-mm.cn.bing.net/th/id/R-C.78f03a27e56ad5fd577b35910963b33b?rik=8srNBTPqDiwL4g&riu=http%3a%2f%2fpic.baike.soso.com%2fp%2f20130816%2f20130816010026-1194280467.jpg&ehk=eUxBPTgf65iHGeM3C%2bqWFa%2f0nGg%2b4%2fDnpCcddf%2fCKXk%3d&risl=&pid=ImgRaw&r=0)
+![img](/img/lab4/scrum3.png)
 
 在Sprint开始的时候，Scrum Team会标示和估计在这个Sprint需要完成的详细的任务。所有这个Sprint中需要完成，但没有完成的任务的工作量是累积工作量，团队会根据进展情况每天更新累积工作量，如果在Sprint结束时，累积工作量降低到0，Sprint就成功结束。
 
@@ -91,8 +95,6 @@ Sprint燃尽图（Sprint Burn-down Chart)：显示了Sprint中累积剩余的工
 敏捷的开发理念摒弃很多传统开发模式中的复杂流程和管理方法，但它这种强调人，强调自身动力的理念也容易使得团队缺乏计划，行动松散。（需要高水平的人员管理、计划管理）
 
 SCRUM就像一把双刃剑，用得好可能产生非常高的生产力；用的不好，不但生产效率不高，可能会让团队陷入混乱。具体如何选择还是要取决于团队的构成和实力。
-
-
 
 
 
