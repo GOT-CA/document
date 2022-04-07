@@ -26,7 +26,7 @@
 
 #### 3. 可行性分析
 
-传送门：[可行性分析报告](https://github.com/GOT-CA/document/blob/main/%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+传送门：[可行性分析报告]([document/可行性分析报告.pdf at main · GOT-CA/document (github.com)](https://github.com/GOT-CA/document/blob/main/可行性分析报告.pdf))
 
 ### 本周进度
 

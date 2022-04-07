@@ -10,7 +10,7 @@
 
 #### 1. 按照分组继续进行项目沟通调查，对上周的可行性报告进行修订
 
-传送门：[可行性分析报告](https://github.com/GOT-CA/document/blob/main/%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)
+传送门：[可行性分析报告]([document/可行性分析报告.pdf at main · GOT-CA/document (github.com)](https://github.com/GOT-CA/document/blob/main/可行性分析报告.pdf))
 
 #### 2. CASE（Computer-Aided Software Engineering，计算机辅助软件工程）工具调研及应用
 
