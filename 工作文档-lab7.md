@@ -171,15 +171,15 @@ Petri网在已知变化状态条件下研究输入和输出的网络结构问题
 
 - 成绩管理模块
 
-![](E:/学习资料/软件工程/document/img/lab7/成绩管理模块.png)
+![](img/lab7/dfd1.png)
 
 - 课程管理模块
 
-![](E:/学习资料/软件工程/document/img/lab7/选课模块.png)
+![](img/lab7/dfd2.png)
 
 - 论坛模块
 
-![](img/lab7/论坛模块.png)
+![](img/lab7/dfd3.png)
 
 ##### （4）OCL逻辑
 
