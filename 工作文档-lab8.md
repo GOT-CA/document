@@ -247,6 +247,8 @@ Logic in Computer Science - Modelling and Reasoning about Systems（面向计算
 
 ### 本周进度
 
+![](img/lab8/gantt.png)
+
 ##### 个人进度
 
 - [x] 马一凌  深入理解UML
