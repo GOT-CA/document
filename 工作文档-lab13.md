@@ -37,7 +37,7 @@
 > Differential Testing for Software.pdf\
 > Feedback-Directed Differential Testing of Interactive Debuggers.pdf
 
-传送门：[差分测试](lab13/差分测试.mc)
+传送门：[差分测试](lab13/差分测试.md)
 
 ### 本周进度
 
