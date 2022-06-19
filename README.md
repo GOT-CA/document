@@ -34,6 +34,6 @@
    
    - 每份工作文档最下面附有成员分工
 
-2. 三个设计文档：[可行性分析报告](https://github.com/GOT-CA/document/blob/main/%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)、[软件需求规格说明](https://github.com/GOT-CA/document/blob/main/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8ESRS.pdf)、[软件体系结构设计](https://github.com/GOT-CA/document/blob/main/%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1SAD.pdf))。
+2. 三个设计文档：[可行性分析报告](https://github.com/GOT-CA/document/blob/main/%E5%8F%AF%E8%A1%8C%E6%80%A7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf)、[软件需求规格说明](https://github.com/GOT-CA/document/blob/main/%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8ESRS.pdf)、[软件体系结构设计](https://github.com/GOT-CA/document/blob/main/%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1SAD.pdf)。
 
 3. 实验中内容较长的部分会单独组织成为一个文件，放在对应的文件夹中，并在对应的工作文档里面加链接，例如`lab12/六大设计原则.md`
